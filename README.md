@@ -1,6 +1,6 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=ckaznable&theme=blue-green)
 
-# Skill
+# Skills
 
 ## Web
 
