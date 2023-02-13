@@ -1,3 +1,5 @@
+![Visitors](https://api.visitorbadge.io/api/visitors?path=ckaznable&countColor=%23ff8a65)
+
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=ckaznable&theme=blue-green)
 
 # Skills
