@@ -8,9 +8,9 @@
 
 [![Web Skills](https://skillicons.dev/icons?i=html,css,js,ts,pug,sass)](https://skillicons.dev)
 
-## Framwork
+## Framework
 
-[![Framwork](https://skillicons.dev/icons?i=react,vue,vite,electron)](https://skillicons.dev)
+[![Framework](https://skillicons.dev/icons?i=react,vue,vite,electron)](https://skillicons.dev)
 
 ## Backend
 
