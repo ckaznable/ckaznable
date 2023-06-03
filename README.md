@@ -20,3 +20,8 @@
 
 [![Tools](https://skillicons.dev/icons?i=docker,git,github,gitlab,linux,vscode)](https://skillicons.dev)
 
+# Donation
+
+<a href="https://liberapay.com/ckaznable/donate"><img alt="Donate using Liberapay" src="https://liberapay.com/assets/widgets/donate.svg"></a>
+
+<a href="https://www.buymeacoffee.com/io1mtcF" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
