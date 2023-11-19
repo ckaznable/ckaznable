@@ -1,24 +1,44 @@
-![Visitors](https://api.visitorbadge.io/api/visitors?path=ckaznable&countColor=%23ff8a65)
+<div style="display: flex; gap: 8px">
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=ckaznable&theme=blue-green)
+<!-- ![Visitors](https://api.visitorbadge.io/api/visitors?path=ckaznable&countColor=%23ff8a65) -->
 
-# Skills
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 
-## Web
+![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
 
-[![Web Skills](https://skillicons.dev/icons?i=html,css,js,ts,pug,sass)](https://skillicons.dev)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
-## Framework
+![NixOS](https://img.shields.io/badge/NIXOS-5277C3.svg?style=for-the-badge&logo=NixOS&logoColor=white)
 
-[![Framework](https://skillicons.dev/icons?i=react,vue,vite,electron)](https://skillicons.dev)
+![Arch](https://img.shields.io/badge/Arch%20Linux-1793D1?logo=arch-linux&logoColor=fff&style=for-the-badge)
 
-## Backend
+![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 
-[![Backend](https://skillicons.dev/icons?i=nodejs,deno,php,py,rust)](https://skillicons.dev)
+![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 
-## Tools
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 
-[![Tools](https://skillicons.dev/icons?i=docker,git,github,gitlab,linux,vscode)](https://skillicons.dev)
+</div>
+
+# Hello I'm Ckaznable 👋
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ckaznable&theme=dark) 
+
+<div style="display: flex">
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ckaznable&theme=dark) 
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ckaznable&theme=dark&utcOffset=8) 
+
+</div>
+
+# Develop
+
+[![](https://skillicons.dev/icons?i=rust,js,ts,nodejs,deno,vue,react,vite,rollup,go,php,md,python)](https://skillicons.dev)
+
+# Roadmap
+
+[![](https://skillicons.dev/icons?i=bevy,wasm,zig,c,cpp,haskell,ocaml,kotlin,tauri)](https://skillicons.dev)
 
 # Donation
 
