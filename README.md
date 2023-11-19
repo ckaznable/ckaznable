@@ -1,6 +1,6 @@
-<div style="display: flex; gap: 8px">
+<div style="display: flex; gap: 8px; flex-wrap: wrap">
 
-<!-- ![Visitors](https://api.visitorbadge.io/api/visitors?path=ckaznable&countColor=%23ff8a65) -->
+![Visitors](https://api.visitorbadge.io/api/visitors?path=ckaznable&countColor=%23ff8a65)
 
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 
