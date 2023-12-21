@@ -13,18 +13,9 @@
 
 # Hello I'm Ckaznable 👋
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ckaznable&theme=dark) 
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ckaznable&theme=dark" />
 
-<table>
-  <tr>
-    <td>
-      <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ckaznable&theme=dark">
-    </td>
-    <td>
-      <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ckaznable&theme=dark&utcOffset=8">
-    </td>
-  </tr>
-</table>
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ckaznable&theme=dark)
 
 # Develop
 
