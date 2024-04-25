@@ -15,6 +15,9 @@
 
 <img src="https://github.com/SAWARATSUKI/ServiceLogos/blob/main/IamSeries/IamProgrammer!.png" height="500">
 
+> logo designed by [SAWARATSUKI](https://github.com/SAWARATSUKI/ServiceLogos)
+
+
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ckaznable&theme=dark" />
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ckaznable&theme=dark)
