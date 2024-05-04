@@ -13,7 +13,7 @@
 
 # Hello I'm Ckaznable 👋
 
-<img src="https://github.com/SAWARATSUKI/ServiceLogos/blob/main/IamSeries/IamProgrammer!.png" height="500">
+<img src="./IamProgrammer!.png" height="500">
 
 > logo designed by [SAWARATSUKI](https://github.com/SAWARATSUKI/ServiceLogos)
 
