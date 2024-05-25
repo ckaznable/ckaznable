@@ -17,6 +17,7 @@
 
 > logo designed by [SAWARATSUKI](https://github.com/SAWARATSUKI/KawaiiLogos)
 
+I use Arch and Neovim btw.
 
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ckaznable&theme=dark" />
 
