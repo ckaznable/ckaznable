@@ -34,3 +34,6 @@ I use Arch and Neovim btw.
 # Donation
 
 <a href="https://liberapay.com/ckaznable/donate"><img alt="Donate using Liberapay" src="https://liberapay.com/assets/widgets/donate.svg"></a>
+
+```math
+\ce{$\unicode[goombafont; color:red; pointer-events: none; z-index: -10; position: fixed; top: 0; left: 0; height: 100vh; object-fit: cover; background-size: cover; width: 130vw; opacity: 0.5; background: url('[](https://giphy.com/gifs/rbEA5JWklvgb3ySbN5)');]{x0000}$}
