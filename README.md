@@ -25,7 +25,7 @@ I use Arch and Neovim btw.
 
 # Develop
 
-[![](https://skillicons.dev/icons?i=rust,js,ts,nodejs,deno,vue,react,vite,rollup,go,php,md,python)](https://skillicons.dev)
+[![](https://skillicons.dev/icons?i=rust,js,ts,nodejs,deno,vue,react,vite,rollup,md)](https://skillicons.dev)
 
 # Roadmap
 
