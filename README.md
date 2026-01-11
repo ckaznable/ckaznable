@@ -25,11 +25,11 @@ I use Arch and Neovim btw.
 
 # Develop
 
-[![](https://skillicons.dev/icons?i=rust,js,ts,nodejs,deno,vue,react,vite,rollup,md)](https://skillicons.dev)
+[![](https://skillicons.dev/icons?i=rust,js,ts,nodejs,deno,vue,react,vite,rollup,md,tauri)](https://skillicons.dev)
 
 # Roadmap
 
-[![](https://skillicons.dev/icons?i=bevy,wasm,zig,c,cpp,haskell,ocaml,kotlin,tauri)](https://skillicons.dev)
+[![](https://skillicons.dev/icons?i=bevy,wasm,zig,c,cpp,haskell,ocaml,kotlin)](https://skillicons.dev)
 
 # Donation
 
